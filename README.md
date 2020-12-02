@@ -18,6 +18,7 @@
 ### Linux
 
 - [nimf](https://github.com/hamonikr/nimf)
+- [soju](https://github.com/gyungoh/soju) - 적은 코드로 
 
 ### Android
 
